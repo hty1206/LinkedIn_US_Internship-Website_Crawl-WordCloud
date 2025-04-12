@@ -1,6 +1,6 @@
 # 🤹🏻‍♀️ LinkedIn_US_Internship-Website_Crawl_WordCloud
 ## ☞ Introduction
-This project focuses on fully automating the entire process, from data scraping to the final report generation that displays real-time sales rankings and price distribution of best-selling products. With visual insights, team members can quickly identify issues, enabling faster decision-making and immediate strategy adjustments.
+This is a self-practice project where I use web scraping with Selenium to extract U.S. internship listings from LinkedIn. Additionally, I create a WordCloud visualization using Python's Matplotlib to highlight the most common job titles and locations.  
 
 ## ☞ Project Process
 1. **Web Scraping with Selenium**  
