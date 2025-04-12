@@ -9,4 +9,4 @@ This project focuses on fully automating the entire process, from data scraping 
 4. **WordCloud Visualization** 
 
 ## ☞ Website URL
-- [Linkedin US Intership](https://www.linkedin.com/jobs/search?keywords=&location=%E7%BE%8E%E5%9C%8B&geoId=103644278&f_TPR=&f_E=1&position=1&pageNum=0)
+- [Linkedin US Internship](https://www.linkedin.com/jobs/search?keywords=&location=%E7%BE%8E%E5%9C%8B&geoId=103644278&f_TPR=&f_E=1&position=1&pageNum=0)
