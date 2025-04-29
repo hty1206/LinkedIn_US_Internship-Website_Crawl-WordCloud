@@ -6,7 +6,10 @@ This is a self-practice project where I use web scraping with Selenium to extrac
 1. Web Scraping with Selenium  
 2. Data Extraction  
 3. Data Processing
-4. WordCloud Visualization  
+4. WordCloud Visualization
+
+## ☞ For More Detailed Information
+For more detailed information on the project, please see the [document here](Lindedin_US_intern_jobs.ipynb)
 
 ## ☞ Website URL
 - [LinkedIn US Internship](https://www.linkedin.com/jobs/search?keywords=&location=%E7%BE%8E%E5%9C%8B&geoId=103644278&f_TPR=&f_E=1&position=1&pageNum=0)
